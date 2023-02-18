@@ -2,7 +2,7 @@
 
 ## 📄Descrição
 
-- Este projeto solicitado pelo professor Arthur Porto para cumprir o requisito da matéria WEB, ao qual tem como intuito de criar o jogo da forca através do node.js e Visual Studio Code.
+- Este projeto foi desenvolvido para cumprir a atividade #08 - JS: A Linguagem, ao qual tem como intuito de criar o jogo da forca através do node.js e Visual Studio Code.
 
 - Tecnologias utilizadas: Visual Studio Code, node.js.
 
