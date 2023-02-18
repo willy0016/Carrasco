@@ -1,0 +1,16 @@
+{
+  "name": "05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WILLY_BRENER_index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node WILLY_BRENER_index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
